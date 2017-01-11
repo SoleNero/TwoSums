@@ -12,6 +12,8 @@ function plusOneSum (arr) {
       },0);
       return result;
   }
+
+
   plusOneSum([1, 2, 3, 4]);
 
 
